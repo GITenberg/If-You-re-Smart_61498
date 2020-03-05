@@ -1,0 +1,41 @@
+_repo: If-You-re-Smart_61498
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Kolliker, William A.
+    alias: Kolliker, William Augustin
+    birthdate: 1905
+    deathdate: 1995
+    gutenberg_agent_id: '51453'
+    url: http://www.gutenberg.org/2009/agents/51453
+creator:
+  author:
+    agent_name: Jameson, Malcolm
+    aliases:
+    - Jameson, Malcolm Routh
+    - Keith, Colin
+    birthdate: 1891
+    deathdate: 1945
+    gutenberg_agent_id: '51457'
+    url: http://www.gutenberg.org/2009/agents/51457
+    wikipedia: https://en.wikipedia.org/wiki/Malcolm_Jameson
+description: ''
+gutenberg_issued: '2020-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61498'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Titan (Satellite) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Capitalists and financiers -- Fiction'
+- !lcsh 'Inventors -- Fiction'
+- !lcsh 'Stock exchanges -- Fiction'
+- GITenberg
+title: If You're Smart—
+url: http://www.gutenberg.org/ebooks/61498
